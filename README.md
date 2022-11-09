@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EngrIB
-- 👀 I’m interested in Coding
-- 🌱 I’m currently studying Software Engineering
-- 💞️ I’m looking to collaborate with some mentor s
+- 👋 Hi, I’m Ibrahim Yakubu Ibrahim
+- 👀 I’m interested in Coding,
+- 🌱 I’m currently studying Software Engineering, at Maryam Abacha American University of Niger republic
+- 💞️ I’m looking to collaborate with some mentors
 - 📫 You can WhatsApp me via +234 9131313036
 
 <!---
